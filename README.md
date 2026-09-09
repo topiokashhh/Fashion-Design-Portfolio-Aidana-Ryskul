@@ -6,5 +6,5 @@
 
 ---
 
-## About Me / О себе
-Я начинающий фэшн-дизайнер, фокусирующийся на [укажи сферы, например: авангардной моде, концептуальном крое и исследовании текстиля]. В своих работах я уделяю особое внимание поиску формы, работе с фактурами и академической графике.
+## About Me
+I am an emerging fashion designer with a focus on clothing that incorporates ethnic elements and cultural references. In my work, I place particular emphasis on form exploration, texture experimentation, and academic drawing techniques
